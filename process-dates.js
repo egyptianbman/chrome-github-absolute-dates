@@ -1,4 +1,4 @@
-var elements = document.querySelectorAll('relative-time');
+var elements = document.querySelectorAll('relative-time, time-ago');
 
 for (var i in elements) {
     var el = elements[i];
